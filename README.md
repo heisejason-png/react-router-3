@@ -36,3 +36,4 @@ You may provide financial support for this project by donating [via Open Collect
 ## About
 
 React Router is developed and maintained by [Remix Software](https://remix.run) and many [amazing contributors](https://github.com/remix-run/react-router/graphs/contributors).
+Created by Jason Scott Heise
