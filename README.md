@@ -38,4 +38,4 @@ You may provide financial support for this project by donating [via Open Collect
 React Router is developed and maintained by [Remix Software](https://remix.run) and many [amazing contributors](https://github.com/remix-run/react-router/graphs/contributors).
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
-https://facebook.com
+https://facebook.com  Owned by Mark Zuckerberg 
